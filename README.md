@@ -5,7 +5,7 @@
   <kbd><img src="https://github.com/MvMukesh/Feature-Engineering-ML/blob/main/images/features.png" height='300' width='600'/> </kbd>
 
 
-1. Variable Types
+1. `Variable Types`
   * Categorical Variables: Nominal and Ordinal
   * Numerical Variables: Discrete and continuous
   * Mixed variables: strings and numbers
@@ -17,7 +17,7 @@
 | | | |
 | | | |
 
-2. Variable Characteristics
+2. `Variable Characteristics`
   * Missing Data
   * Cardinality
   * Category Frequency
@@ -31,7 +31,7 @@
 | | | |
 | | | |
 
-3. Missing Data Imputation
+3. `Missing Data Imputation`
   * Mean and Median Imputation
   * Arbitrary value imputation
   * End of Tail Imputation
@@ -48,7 +48,7 @@
 | | | |
 | | | |
 
-4. Multivariate Imputation
+4. `Multivariate Imputation`
   * MICE
   * KNN imputation
 
@@ -58,7 +58,7 @@
 | | | |
 | | | |
 
-5. Categorical Variable Encoding
+5. `Categorical Variable Encoding`
   * One hot encoding: simple and of frequent categories
   * Ordinal encoding: arbitrary and ordered
   * Target mean encoding
@@ -75,7 +75,7 @@
 | | | |
 | | | |
 
-6. Variable Transformation
+6. `Variable Transformation`
   * Log, power and reciprocal
   * Box-Cox
   * yeo-Johnson
@@ -88,7 +88,7 @@
 | | | |
 | | | |
 
-7. Discretisation
+7. `Discretisation`
   * Arbitrary
   * Equal-frequency discretisation
   * Equal-width discretisation
@@ -103,7 +103,7 @@
 | | | |
 | | | |
 
-8. Outliers
+8. `Outliers`
   * Capping
   * Trimming
 
@@ -113,7 +113,7 @@
 | | | |
 | | | |
 
-9. Feature Scaling
+9. `Feature Scaling`
   * Standardisation
   * MinMaxScaling
   * MaxAbsoluteScaling
@@ -125,7 +125,7 @@
 | | | |
 | | | |
 
-10. Mixed variables
+10. `Mixed variables`
   * Creating new variables from strings and numbers
 
 | Mixed variables | Code + Blog Link| Video Link |
@@ -134,7 +134,7 @@
 | | | |
 | | | |
   
- 11. Datetime
+ 11. `Datetime`
   * Extracting day, month, week, etc
   * Extracting hr, min, sec, etc
   * Capturing elapsed time
@@ -146,7 +146,7 @@
 | | | |
 | | | |
 
-12. Pipelines
+12. `Pipelines`
   * Classification Pipeline
   * Regression Pipeline
   * Pipeline with cross-validation
