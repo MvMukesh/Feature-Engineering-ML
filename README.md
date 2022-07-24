@@ -5,7 +5,9 @@
   <kbd>
   <img src="https://github.com/MvMukesh/Feature-Engineering-ML/blob/main/images/feature_engineering.gif" height='100' width='150'/>
   <img src="https://github.com/MvMukesh/Feature-Engineering-ML/blob/main/images/features.png" height='300' width='1000'/>
-  </p>
+  </kbd></p>
+<p align="right">
+  <img src="https://github.com/MvMukesh/Feature-Engineering-ML/blob/main/images/working_on_it.gif" height='90' width='170'/>
 
 
 1. **`Variable Types`**
