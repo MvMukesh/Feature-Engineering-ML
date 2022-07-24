@@ -2,10 +2,10 @@
 <hr>
 
 <p align="center">
-  <kbd><img src="https://github.com/MvMukesh/Feature-Engineering-ML/blob/main/images/features.png" height='300' width='600'/> </kbd>
+  <kbd><img src="https://github.com/MvMukesh/Feature-Engineering-ML/blob/main/images/features.png" height='300' width='1000'/> </kbd>
 
 
-1. `Variable Types`
+1. **`Variable Types`**
   * Categorical Variables: Nominal and Ordinal
   * Numerical Variables: Discrete and continuous
   * Mixed variables: strings and numbers
