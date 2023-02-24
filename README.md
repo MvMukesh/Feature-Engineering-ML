@@ -4,11 +4,12 @@
 
 <p align="center">
   <kbd>
-  <img src="https://github.com/MvMukesh/Feature-Engineering-ML/blob/main/images/feature_engineering.gif" height='100' width='150'/>
-  <img src="https://github.com/MvMukesh/Feature-Engineering-ML/blob/main/images/features.png" height='300' width='1000'/>
+  <img src="https://user-images.githubusercontent.com/26667491/221219917-0ffa1b2c-f92d-4901-a674-4f3829aae7db.gif" height='100' width='150'/>
+  <img src="https://user-images.githubusercontent.com/26667491/221220162-24458558-b280-46b1-afe6-05ab75e33014.png" height='300' width='1000'/>
   </kbd></p>
 <p align="right">
-  <img src="https://github.com/MvMukesh/Feature-Engineering-ML/blob/main/images/working_on_it.gif" height='90' width='170'/>
+  <img src="https://user-images.githubusercontent.com/26667491/221220318-d3aac718-e7eb-463c-ae47-32d31a8eec55.gif" height='90' width='170'/>
+
 
 
 1. **`Variable Types`**
