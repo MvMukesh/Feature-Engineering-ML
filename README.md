@@ -143,10 +143,13 @@
 | | | |
 
 9. `Feature Scaling`
-  * Standardisation
-  * MinMaxScaling
+  * Standardisation (common one)
+  * MinMaxScaling (common one)
   * MaxAbsoluteScaling
   * RobustScaling
+  * Scaling to absolute maxima
+  * Scaling to median & quantiles
+  * Scaling to unit norm
 
 `Models Effected by magnitude of feature`
 * Linear & Logistic Regression
@@ -156,6 +159,11 @@
 * LDA
 * PCA
 * Neural Networks
+
+`Models insensitive to feature magnitude` - Tree Based Models
+* Classification & Regression Trees
+* Random Forest
+* Gradient Boosted Trees
   
 | Feature Scaling | Code + Blog Link| Video Link |
 |-----------------|-----------------|------------|
