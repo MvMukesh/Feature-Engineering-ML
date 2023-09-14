@@ -68,15 +68,24 @@
 | | | |
 
 5. `Categorical Variable Encoding`
-  * One hot encoding: simple and of frequent categories
-  * Ordinal encoding: arbitrary and ordered
-  * Target mean encoding
-  * Weight of evidence
-  * Probability Ratio
-  * Rare Label encoding
-  * Encoding with Scikit-learn
-  * Encoding with Feature-engine
-  * Encoding with category encoders
+  * Traditional Techniques
+    * One hot encoding: simple and of frequent categories
+    * Ordinal / Label encoding: arbitrary and ordered
+    * Count / Frequency encoding
+  * Monotonic Relationship
+    * Target mean encoding
+    * Weight of evidence
+    * Ordered label encoding
+  * Alternative Techniques
+    * Binary encoding
+    * Feature hashing
+    * Probability Ratio
+  * For Rare Labels
+    * One hot encoding of frequent categories
+    * Grouping of rare categories
+    * Rare Label encoding
+    * Encoding with Scikit-learn
+    * Encoding with category encoders
 
 | Categorical Variable Encoding | Code + Blog Link| Video Link |
 |-------------------------|-----------------|------------|
@@ -85,11 +94,21 @@
 | | | |
 
 6. `Variable Transformation`
-  * Log, power and reciprocal
+* Mathematical Transformations
+  * Logarithic
+  * Exponential / Power
+  * Reciprocal
   * Box-Cox
-  * yeo-Johnson
+  * Yeo-Johnson
+* Discretisation
+  * Unsupervised
+    * Equal-width
+    * Equal-frequency
+    * K means
+  * Supervised
+    * Decision Tree
+* Other
   * Transformation with Scikit-learn
-  * Transformation with Feature-engine
 
 | Variable Transformation | Code + Blog Link| Video Link |
 |-------------------------|-----------------|------------|
