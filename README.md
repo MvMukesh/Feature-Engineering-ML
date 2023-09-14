@@ -39,11 +39,13 @@
 | | | |
 
 3. `Missing Data Imputation`
-  * Mean and Median Imputation
-  * Arbitrary value imputation
-  * End of Tail Imputation
-  * Frequent category imputation
-  * Adding string missing
+  * For Numerical Variables
+    * Mean and Median Imputation
+    * Arbitrary value imputation
+    * End of Tail Imputation
+  * For Categorical Variables
+    * Frequent category imputation
+    * Adding a missing category
   * Random Sample Imputation
   * Adding a missing indicator
   * Imputation with Scikit-learn
