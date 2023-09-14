@@ -180,10 +180,12 @@
 | | | |
 | | | |
   
- 11. `Datetime`
-  * Extracting day, month, week, etc
-  * Extracting hr, min, sec, etc
-  * Capturing elapsed time
+ 11. `Datetime Variables`
+  * Extracting day, month, week, semester, year ...etc
+  * Extracting hour, min, sec ...etc
+  * Capturing Elapsed time
+    * Time between transactions
+    * Age
   * Working with timezones 
   
 | Datetime | Code + Blog Link| Video Link |
@@ -192,7 +194,25 @@
 | | | |
 | | | |
 
-12. `Pipelines`
+12. `Text`
+  * Characters, Words, Unique words
+  * Lexical diversity
+  * Sentences, Paragraphs
+  * Bag of Words
+  * TFiDF
+
+13. `Transactions & Time Series`
+  * Aggregate data
+    * Number of payments in last 3, 6, 12 months
+    * Time since last transaction
+    * Total spending in last month
+
+14. `Feature Combination`
+  * Ratio : total debt with income --> Debt to income ratio
+  * Sum : Debt in different credit cards --> total debt
+  * Subtraction : Income without expenses --> disposable income
+
+15. `Pipelines`
   * Classification Pipeline
   * Regression Pipeline
   * Pipeline with cross-validation
