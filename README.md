@@ -132,8 +132,9 @@
 | | | |
 
 8. `Outliers`
-  * Capping
-  * Trimming
+  * Discretisation
+  * Capping / Censoring
+  * Trimming / Truncation 
 
 | Outliers | Code + Blog Link| Video Link |
 |----------------|-----------------|------------|
@@ -146,7 +147,16 @@
   * MinMaxScaling
   * MaxAbsoluteScaling
   * RobustScaling
- 
+
+`Models Effected by magnitude of feature`
+* Linear & Logistic Regression
+* SVM
+* KNN
+* K-means Clustering
+* LDA
+* PCA
+* Neural Networks
+  
 | Feature Scaling | Code + Blog Link| Video Link |
 |-----------------|-----------------|------------|
 | | | |
